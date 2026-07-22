@@ -21,7 +21,7 @@ I should also admit that much of the JavaScript code was written with the assist
 - [`advanced_orca_uv`](https://github.com/radi0sus/advanced_orca_uv/) *Interactive browser-based UV-Vis spectrum analysis and export from ORCA output files.* `JavaScript` `HTML`
   - [Try it here.](https://radi0sus.github.io/advanced_orca_uv/) 
 - [`orca_st`](https://github.com/radi0sus/orca_st/) *Easily transfer selected states from ORCA output files into tables.* `Python`  
-- [`orca_st-go`](https://github.com/radi0sus/orca_st-go/) *Interactive browser-based UV-Vis spectrum analysis and export from ORCA output files.* `Go`
+- [`orca_st-go`](https://github.com/radi0sus/orca_st-go/) *Easily transfer selected states from ORCA output files into tables.* `Go`
   - **Note:** `advanced_orca_uv` includes almost all functionality of `orca_st` and `orca_st-go`.
 
 #### Infrared spectroscopy
