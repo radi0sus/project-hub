@@ -44,10 +44,12 @@ I should also admit that much of the JavaScript code was written with the assist
 - [`mo-viewer`](https://github.com/radi0sus/mo-viewer/) *Display and export Gaussian CUBE files.* `JavaScript` `HTML`
   - [Try it here.](https://radi0sus.github.io/mo-viewer/)    
 
-### Structure (xyz) analysis
+### Structure (xyz) analysis and manipulation
 - [`xyz2tab`](https://github.com/radi0sus/xyz2tab/) *Convert XYZ data to bond lengths & angles, calculate contacts, planes and dihedral angles and print tables.* `Python` 
 - [`advanced_xyz2tab`](https://github.com/radi0sus/advanced_xyz2tab/) *Convert XYZ data to bond lengths & angles, calculate contacts, planes and dihedral angles and print tables.* `JavaScript` `HTML`
   - [Try it here.](https://radi0sus.github.io/advanced_xyz2tab/)
+- [`xyzalign`](https://github.com/radi0sus/xyzalign/)*Align atomic coordinates in xyz files.* `Python`
+- [`xyzoverlay`](https://github.com/radi0sus/xyzoverlay/) *Python 3 script for overlaying or superimposing two or more molecules.* `Python`
 
 ## Crystallography
 
