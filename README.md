@@ -52,8 +52,33 @@ I should also admit that much of the JavaScript code was written with the assist
 - [`xyzoverlay`](https://github.com/radi0sus/xyzoverlay/) *Python 3 script for overlaying or superimposing two or more molecules.* `Python`
 
 ## Crystallography
+### Tables, reports, ORTEP plots
 - [`ciflordg-web`](https://github.com/radi0sus/ciflordg-web/) *CIF reporting, average calculations, geometry-parameter analysis, interatomic distance analysis, disorder-model summarisation, and ORTEP-style SVG structure plotting.* `JavaScript` `HTML`
-  - [Try it here.](https://radi0sus.github.io/ciflordg-web/) 
-- [`tablemaster-web`](https://github.com/radi0sus/tablemaster-web/) *Generates a crystallographic "Table 1" (crystal data and structure refinement details) from up to five CIF files.* `JavaScript` `HTML`
-  - [Try it here.](https://radi0sus.github.io/tablemaster-web/) 
+  - [Try it here.](https://radi0sus.github.io/ciflordg-web/)
+- [`cifpal`](https://github.com/radi0sus/cifpal/) *Tables with selected bond lengths and angles from CIF (Crystallographic Information File).* `Python`
+- [`tablemaster-web`](https://github.com/radi0sus/tablemaster-web/) *Crystal data and structure refinement details from up to five CIFs.* `JavaScript` `HTML`
+  - [Try it here.](https://radi0sus.github.io/tablemaster-web/)
+### Geometry parameters
+- [`cshm-cc`](https://github.com/radi0sus/cshm-cc/) *Computes CShM (shape measures) and other geometric indices from crystallographic information files (CIFs).* `Python` 
+- [`advanced_cshm-cc`](https://github.com/radi0sus/advanced_cshm-cc/) *Browser-based CShM analyzer for coordination compounds.* `JavaScript` `HTML`
+  - [Try it here.](https://radi0sus.github.io/advanced_cshm-cc/)
+- [`tau-calc`](https://github.com/radi0sus/tau-calc/) *Python 3 script that calculates τ₄, τ₅, O, and CShM from CIF.* `Python`
+----
+- **Note 1:** `ciflordg-web`, `tablemaster-web`, and `advanced_cshm-cc` include almost all functionality of the remaining tools.
+- **Note 2:** There are some older tools like [`Ciflord2`](https://github.com/radi0sus/Ciflord2) or [`TablemasterG2`](https://github.com/radi0sus/TablemasterG2).
+  
 ## Spectroscopy
+### Raman spectroscopy
+- [`raman_tl`](https://github.com/radi0sus/raman_tl/) *Baseline correction, smoothing, processing and plotting of Raman spectra.* `Python`  
+- [`advanced_raman_tl`](https://github.com/radi0sus/advanced_raman_tl/) *Web app for baseline correction, smoothing, processing and plotting of Raman spectra.* `Python` `Streamlit App`
+  - [Try it here.](https://advancedramantl-nfvgsz7dquxrmtk6xvc9hq.streamlit.app/)
+### Mößbauer spectroscopy
+- [`fit-mb`](https://github.com/radi0sus/fit-mb/) *Python 3 script for (hassle-free) fitting of Mößbauer (MB) spectra.* `Python`
+- [`cal-mb`](https://github.com/radi0sus/cal-mb/) *Easily calibrate Mößbauer (MB) spectra.* `Python`
+
+## Retro computing
+- [`hexviz`](https://github.com/radi0sus/hexviz/) *HEX BIN DEC visualizer for C64 & C128 VDC.* `6502 Assembly` 
+  - [Try it here.](https://radi0sus.github.io/hexviz/) `JavaScript` `HTML`
+- [`memory128`](https://github.com/radi0sus/memory128/) *A Memory Game for the C128 (VDC)* `6502 Assembly`
+  - [Try it here.](https://radi0sus.github.io/memory128/) `JavaScript` `HTML`
+- [`robots-mapedit`](https://github.com/radi0sus/robots-mapedit/) *Modern Robots Map Editor.* `Python`
