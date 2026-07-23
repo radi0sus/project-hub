@@ -52,5 +52,7 @@ I should also admit that much of the JavaScript code was written with the assist
 - [`xyzoverlay`](https://github.com/radi0sus/xyzoverlay/) *Python 3 script for overlaying or superimposing two or more molecules.* `Python`
 
 ## Crystallography
+- [`ciflordg-web`](https://github.com/radi0sus/ciflordg-web/) *CIF reporting, average calculations, geometry-parameter analysis, interatomic distance analysis, disorder-model summarisation, and ORTEP-style SVG structure plotting.* `JavaScript` `HTML`
+  - [Try it here.](https://radi0sus.github.io/ciflordg-web/) 
 
 ## Spectroscopy
