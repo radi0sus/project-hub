@@ -2,7 +2,7 @@
 
 Welcome!
 
-This repository serves as an index to all **RADI0SUS** open-source projects.
+This repository serves as an index to most **RADI0SUS** open-source projects.
 
 Most of these projects started as Python applications. 
 Since installing Python still seems to be a challenge for some of us, 
