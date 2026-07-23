@@ -82,3 +82,8 @@ I should also admit that much of the JavaScript code was written with the assist
 - [`memory128`](https://github.com/radi0sus/memory128/) *A Memory Game for the C128 (VDC)* `6502 Assembly`
   - [Try it here.](https://radi0sus.github.io/memory128/) `JavaScript` `HTML`
 - [`robots-mapedit`](https://github.com/radi0sus/robots-mapedit/) *Modern Robots Map Editor.* `Python`
+
+##  Miscellaneous
+- [`odl-germany`](https://github.com/radi0sus/odl-germany/) *Interactive overview of ODL stations in Germany.* `Python` `Streamlit App`
+  - [Try it here.](https://odl-germany.streamlit.app)
+- [`Alfred_Workflows`](https://github.com/radi0sus/Alfred_Workflows/) *A collection of Alfred (MacOS) workflows.* `Shell` `Python`
