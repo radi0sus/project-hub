@@ -54,5 +54,6 @@ I should also admit that much of the JavaScript code was written with the assist
 ## Crystallography
 - [`ciflordg-web`](https://github.com/radi0sus/ciflordg-web/) *CIF reporting, average calculations, geometry-parameter analysis, interatomic distance analysis, disorder-model summarisation, and ORTEP-style SVG structure plotting.* `JavaScript` `HTML`
   - [Try it here.](https://radi0sus.github.io/ciflordg-web/) 
-
+- [`tablemaster-web`](https://github.com/radi0sus/tablemaster-web/) *Generates a crystallographic "Table 1" (crystal data and structure refinement details) from up to five CIF files.* `JavaScript` `HTML`
+  - [Try it here.](https://radi0sus.github.io/tablemaster-web/) 
 ## Spectroscopy
