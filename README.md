@@ -78,7 +78,7 @@ I should also admit that much of the JavaScript code was written with the assist
 - [`fit-mb`](https://github.com/radi0sus/fit-mb/) *Python 3 script for (hassle-free) fitting of Mößbauer (MB) spectra.* `Python`
 - [`cal-mb`](https://github.com/radi0sus/cal-mb/) *Easily calibrate Mößbauer (MB) spectra.* `Python`
 
-## Retro computing
+## Retrocomputing
 - [`hexviz`](https://github.com/radi0sus/hexviz/) *HEX BIN DEC visualizer for C64 & C128 VDC.* `6502 Assembly` 
   - [Try it here.](https://radi0sus.github.io/hexviz/) `JavaScript` `HTML`
 - [`memory128`](https://github.com/radi0sus/memory128/) *A Memory Game for the C128 (VDC)* `6502 Assembly`
