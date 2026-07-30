@@ -44,7 +44,7 @@ I should also admit that much of the JavaScript code was written with the assist
 - [`mo-viewer`](https://github.com/radi0sus/mo-viewer/) *Display and export Gaussian CUBE files.* `JavaScript` `HTML`
   - [Try it here.](https://radi0sus.github.io/mo-viewer/)    
 
-### Structure (xyz) analysis and manipulation
+## Structure (xyz) analysis and manipulation
 - [`xyz2tab`](https://github.com/radi0sus/xyz2tab/) *Convert XYZ data to bond lengths & angles, calculate contacts, planes and dihedral angles and print tables.* `Python` 
 - [`advanced_xyz2tab`](https://github.com/radi0sus/advanced_xyz2tab/) *Convert XYZ data to bond lengths & angles, calculate contacts, planes and dihedral angles and print tables.* `JavaScript` `HTML`
   - [Try it here.](https://radi0sus.github.io/advanced_xyz2tab/)
