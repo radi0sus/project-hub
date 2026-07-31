@@ -55,7 +55,7 @@ I should also admit that much of the JavaScript code was written with the assist
 
 ## Crystallography
 ### Tables, reports, ORTEP plots
-- [`ciflordg-web`](https://github.com/radi0sus/ciflordg-web/) *CIF reporting, average calculations, geometry-parameter analysis, interatomic distance analysis, disorder-model summarisation, and ORTEP-style SVG structure plotting.* `JavaScript` `HTML`
+- [`ciflordg-web`](https://github.com/radi0sus/ciflordg-web/) *CIF reporting, ORTEP-style plotting, and XYZ export.* `JavaScript` `HTML`
   - [Try it here.](https://radi0sus.github.io/ciflordg-web/)
 - [`cifpal`](https://github.com/radi0sus/cifpal/) *Tables with selected bond lengths and angles from CIF (Crystallographic Information File).* `Python`
 - [`tablemaster-web`](https://github.com/radi0sus/tablemaster-web/) *Crystal data and structure refinement details from up to five CIFs.* `JavaScript` `HTML`
