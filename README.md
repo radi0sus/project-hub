@@ -46,7 +46,7 @@ I should also admit that much of the JavaScript code was written with the assist
 
 ## Structure (xyz) analysis and manipulation
 - [`xyz2tab`](https://github.com/radi0sus/xyz2tab/) *Convert XYZ data to bond lengths & angles, calculate contacts, planes and dihedral angles and print tables.* `Python` 
-- [`advanced_xyz2tab`](https://github.com/radi0sus/advanced_xyz2tab/) *Convert XYZ data to bond lengths & angles, calculate contacts, planes, dihedral angles & ring parameters, and print tables.* `JavaScript` `HTML`
+- [`advanced_xyz2tab`](https://github.com/radi0sus/advanced_xyz2tab/) *Convert XYZ data to bond lengths & angles, calculate contacts, planes, dihedral angles, ring parameters & CShM, and print tables.* `JavaScript` `HTML`
   - [Try it here.](https://radi0sus.github.io/advanced_xyz2tab/)
 - [`xyzalign`](https://github.com/radi0sus/xyzalign/)*Align atomic coordinates in xyz files.* `Python`
 - [`xyzalign-web`](https://github.com/radi0sus/xyzalign-web/) *Align atomic coordinates in xyz files.* `JavaScript` `HTML`
