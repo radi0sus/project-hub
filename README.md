@@ -52,6 +52,8 @@ I should also admit that much of the JavaScript code was written with the assist
 - [`xyzalign-web`](https://github.com/radi0sus/xyzalign-web/) *Align atomic coordinates in xyz files.* `JavaScript` `HTML`
   - [Try it here.](https://radi0sus.github.io/xyzalign-web/)
 - [`xyzoverlay`](https://github.com/radi0sus/xyzoverlay/) *Python 3 script for overlaying or superimposing two or more molecules.* `Python`
+- [`xyzoverlay-web`](https://github.com/radi0sus/xyzoverlay-web/) *Overlaying or superimposing two or more molecules.* `JavaScript` `HTML`
+  - [Try it here.](https://radi0sus.github.io/xyzoverlay-web/)
 
 ## Crystallography
 ### Tables, reports, ORTEP plots
