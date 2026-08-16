@@ -14,6 +14,24 @@ The only requirement is a modern web browser with JavaScript enabled.
 
 I should also admit that much of the JavaScript code was written with the assistance of AI.
 
+---
+
+## Important Notes
+
+### License
+The code written by the author is released under a permissive license (e.g., MIT License), allowing for a wide range of uses including modification and redistribution. See individual repositories for specific license details.
+
+### Reporting Issues and Contributing
+If you encounter any errors or bugs, please report them via the respective GitHub repository's issue tracker. The author will address and fix issues promptly and incorporate changes into the codebase. For larger modifications or feature requests, feel free to clone the repository and implement your changes.
+
+### Testing and Reliability
+Please note that the code and results have not been extensively tested. Always verify the results independently and cross-check with other sources. The author provides no warranty or guarantee for the correctness, accuracy, or reliability of the code or its outputs.
+
+### Scientific Review and Attribution
+The code and web applications have not undergone peer review in the scientific sense (refereed process). While attribution is appreciated, it is not strictly necessary to cite these tools in publications. If you do use them, please reference the relevant GitHub repository or web application URL.
+
+---
+
 ## Computational Chemistry (mostly ORCA related)
 ### Spectroscopy
 #### UV/Vis spectroscopy
