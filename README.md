@@ -80,13 +80,14 @@ The code and web applications have not undergone peer review in the scientific s
 - [`cifpal`](https://github.com/radi0sus/cifpal/) *Tables with selected bond lengths and angles from CIF (Crystallographic Information File).* `Python`
 - [`tablemaster-web`](https://github.com/radi0sus/tablemaster-web/) *Crystal data and structure refinement details from up to five CIFs.* `JavaScript` `HTML`
   - [Try it here.](https://radi0sus.github.io/tablemaster-web/)
-- [`xfileprep`](https://github.com/radi0sus/xfileprep/) *Prepare .ins files for SHELXS or SHELXT* `JavaScript` `HTML`
-  - [Try it here.](https://radi0sus.github.io/xfileprep/)
 ### Geometry parameters
 - [`cshm-cc`](https://github.com/radi0sus/cshm-cc/) *Computes CShM (shape measures) and other geometric indices from crystallographic information files (CIFs).* `Python` 
 - [`advanced_cshm-cc`](https://github.com/radi0sus/advanced_cshm-cc/) *Browser-based CShM analyzer for coordination compounds.* `JavaScript` `HTML`
   - [Try it here.](https://radi0sus.github.io/advanced_cshm-cc/)
 - [`tau-calc`](https://github.com/radi0sus/tau-calc/) *Python 3 script that calculates τ₄, τ₅, O, and CShM from CIF.* `Python`
+### Other Tools
+- [`xfileprep`](https://github.com/radi0sus/xfileprep/) *Prepare .ins files for SHELXS or SHELXT* `JavaScript` `HTML`
+  - [Try it here.](https://radi0sus.github.io/xfileprep/)
 ----
 - **Note 1:** `ciflordg-web`, `tablemaster-web`, and `advanced_cshm-cc` include almost all functionality of the remaining tools.
 - **Note 2:** There are some older tools like [`Ciflord2`](https://github.com/radi0sus/Ciflord2) or [`TablemasterG2`](https://github.com/radi0sus/TablemasterG2).
