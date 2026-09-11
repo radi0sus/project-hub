@@ -80,6 +80,8 @@ The code and web applications have not undergone peer review in the scientific s
 - [`cifpal`](https://github.com/radi0sus/cifpal/) *Tables with selected bond lengths and angles from CIF (Crystallographic Information File).* `Python`
 - [`tablemaster-web`](https://github.com/radi0sus/tablemaster-web/) *Crystal data and structure refinement details from up to five CIFs.* `JavaScript` `HTML`
   - [Try it here.](https://radi0sus.github.io/tablemaster-web/)
+- [`xfileprep`](https://github.com/radi0sus/xfileprep/) *Prepare .ins files for SHELXS or SHELXT* `JavaScript` `HTML`
+  - [Try it here.](https://radi0sus.github.io/xfileprep/)
 ### Geometry parameters
 - [`cshm-cc`](https://github.com/radi0sus/cshm-cc/) *Computes CShM (shape measures) and other geometric indices from crystallographic information files (CIFs).* `Python` 
 - [`advanced_cshm-cc`](https://github.com/radi0sus/advanced_cshm-cc/) *Browser-based CShM analyzer for coordination compounds.* `JavaScript` `HTML`
