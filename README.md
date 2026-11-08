@@ -88,7 +88,7 @@ The code and web applications have not undergone peer review in the scientific s
 ### Other Tools
 - [`xfileprep`](https://github.com/radi0sus/xfileprep/) *Prepare .ins files for SHELXS or SHELXT* `JavaScript` `HTML`
   - [Try it here.](https://radi0sus.github.io/xfileprep/)
-- [`xfileprep`](https://github.com/radi0sus/fourier-maps) *Show Fourier an Patterson maps* `JavaScript` `HTML`
+- [`fourier-maps`](https://github.com/radi0sus/fourier-maps) *Show Fourier an Patterson maps* `JavaScript` `HTML`
   - [Try it here.](https://radi0sus.github.io/fourier-maps/)
 ----
 - **Note 1:** `ciflordg-web`, `tablemaster-web`, and `advanced_cshm-cc` include almost all functionality of the remaining tools.
